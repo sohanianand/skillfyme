@@ -1,0 +1,43 @@
+
+<users>
+<user id="1" lang="ja">
+<name>田中太郎</name>
+<city>東京</city>
+<note>日本語の例 — кириллица — emoji 🎉</note>
+</user>
+<user id="2" lang="ar" dir="rtl">
+<name>محمد أحمد</name>
+<city>القاهرة</city>
+<note>النص العربي يكتب من اليمين إلى اليسار</note>
+</user>
+<user id="3" lang="es">
+<name>José Ángel Núñez</name>
+<city>México</city>
+<note>Acentos: ñ á é í ó ú</note>
+</user>
+<user id="4" lang="zh">
+<name>李小明</name>
+<city>北京</city>
+<note>中文字符 + emoji 🌍🚀</note>
+</user>
+<user id="5" lang="de">
+<name>Müller-König</name>
+<city>München</city>
+<note>Umlauts: ä ö ü ß</note>
+</user>
+<user id="6" lang="hi">
+<name>कृष्ण</name>
+<city>मुंबई</city>
+<note>देवनागरी लिपि</note>
+</user>
+<user id="7" lang="el">
+<name>Σωκράτης</name>
+<city>Αθήνα</city>
+<note>Ελληνικά γράμματα</note>
+</user>
+<user id="8" lang="math">
+<name>𝕌𝕟𝕚𝕔𝕠𝕕𝕖</name>
+<city>𝔸𝕣𝕥𝕚𝕗𝕒𝕔𝕥𝕝𝕒𝕟𝕕</city>
+<note>Mathematical alphanumeric symbols (4-byte UTF-8)</note>
+</user>
+</users>
